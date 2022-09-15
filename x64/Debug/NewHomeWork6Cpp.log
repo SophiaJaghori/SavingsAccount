@@ -1,0 +1,4 @@
+﻿  Main.cpp
+D:\My CLasses\C++\NewHomeWork6Cpp\NewHomeWork6Cpp\Main.cpp(69,11): warning C4129: ' ': unrecognized character escape sequence
+D:\My CLasses\C++\NewHomeWork6Cpp\NewHomeWork6Cpp\Main.cpp(78,13): warning C4129: 'W': unrecognized character escape sequence
+  NewHomeWork6Cpp.vcxproj -> D:\My CLasses\C++\NewHomeWork6Cpp\x64\Debug\NewHomeWork6Cpp.exe
